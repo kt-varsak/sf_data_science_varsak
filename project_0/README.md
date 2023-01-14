@@ -41,7 +41,8 @@
 
 
 ### Результаты:  
-....
+Написан алгоритм, который угадывает число в среднем за 17 попыток.
+Представлен в [файле game_core_v3](https://github.com/kt-varsak/sf_data_science_varsak/blob/main/project_0/game_core_v3.ipynb)
 
 :arrow_up:[к оглавлению](.README.md#Оглавление)
 
