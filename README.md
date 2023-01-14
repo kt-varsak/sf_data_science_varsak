@@ -6,3 +6,5 @@ FROM the [Skillfactory Data Science course](https://skillfactory.ru/data-scienti
 * [Проект 0. Игра: Угадай число](https://github.com/kt-varsak/sf_data_science_varsak/tree/main/project0)
 * [Проект 1. ______](____)
 * [Проект 2. ______](____)
+
+
